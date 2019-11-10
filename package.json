@@ -8,7 +8,11 @@
     "type": "git",
     "url": "git+https://github.com/keqingrong/dom-utils.git"
   },
-  "keywords": [],
+  "keywords": [
+    "cssom",
+    "dom",
+    "viewport"
+  ],
   "author": "Qingrong Ke <keqingrong@outlook.com> (https://keqingrong.github.io/)",
   "license": "MIT",
   "bugs": {

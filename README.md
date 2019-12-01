@@ -4,11 +4,23 @@
 
 > Utilities for DOM, CSSOM
 
+English | [简体中文](./README-zh-hans.md)
+
 ## Installation
 
 ```sh
 npm install @keqingrong/dom-utils
 ```
+
+## API
+
+- `getPageScrollOffset()`
+- `getPageSize()`
+- `getViewportSize()`
+- `getElementBoundingRect(element)`
+- `isInViewport(element)`
+- `isOutOfViewport(element)`
+- `isIntersectWithViewport(element)`
 
 ## License
 

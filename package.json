@@ -2,7 +2,7 @@
   "name": "@keqingrong/dom-utils",
   "version": "0.1.0",
   "description": "Utilities for DOM, CSSOM",
-  "main": "",
+  "main": "src/index.js",
   "scripts": {},
   "repository": {
     "type": "git",
